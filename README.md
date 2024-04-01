@@ -1,5 +1,5 @@
 # jspy
-I am learning python by doing projects.
+I am learning Python by doing projects.
 
 1. Band Generator 
 Purpose: To work with variables in Python to manage data. Following functions and concepts learned:
