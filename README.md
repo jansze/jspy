@@ -9,7 +9,7 @@ Purpose: To work with variables in Python to manage data. Following functions an
 - String manipulation.
 
 2. Tip Calculator
-   Purpose: To udnerstand data types and how to further manipulate strings. Following functions and concepts learned:
+   Purpose: To understand data types and how to further manipulate strings. Following functions and concepts learned:
 -  Data types : String / Integer / Float / Boolean
 -  Mathematical operators : () ** * / + -
 -  f-string allows the use of multiple data types in a string. eg : print(f"your score is {int}, your height is {float}, you are winning is {boolean}")
