@@ -14,3 +14,9 @@ Purpose: To work with variables in Python to manage data. Following functions an
 -  Mathematical operators : () ** * / + -
 -  f-string allows the use of multiple data types in a string. eg : print(f"your score is {int}, your height is {float}, you are winning is {boolean}")
 -  round() function allows you to round numbers
+
+3. Treasure Island
+-  Purpose: To understand conditional statements, logical operators, code blocks and scope. Following functions and concepts learned:
+-  Controling flow with if / elif / else. && Nested if statements.
+-  Comparison operators : '>' '<' '>=' '<=' '==' '!='
+-  Logical operators : used in 'jspy\TreasureIsland\TreasureIsland.py' line 14 : 'elif age >= 45 and age <= 55:'
