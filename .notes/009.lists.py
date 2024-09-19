@@ -1,12 +1,12 @@
-fruits = ["Cherry", "Apple", "Pear"]
+# fruits = ["Cherry", "Apple", "Pear"]
 
-fruits[0] = "Lime"
+# fruits[0] = "Lime"
 
-fruits.append("Grape")
+# fruits.append("Grape")
 
-fruits.extend(["Pineapple", "Lemon"])
+# fruits.extend(["Pineapple", "Lemon"])
 
-print(fruits)
+# print(fruits)
 
 # Randomization plus lists usecase
 
